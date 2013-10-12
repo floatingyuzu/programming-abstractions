@@ -8,11 +8,13 @@
 
 /* Begin PBXBuildFile section */
 		2B3A9CE01713B46200787D95 /* 2_16.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 2B3A9CDE1713B46200787D95 /* 2_16.cpp */; };
+		3663CA371808576D0019154F /* 3_01 in Resources */ = {isa = PBXBuildFile; fileRef = 3663CA361808576D0019154F /* 3_01 */; };
 		E3DDB4120D2F60C500348E1D /* libStanfordCPPLib.a in Frameworks */ = {isa = PBXBuildFile; fileRef = E3DDB4110D2F60C500348E1D /* libStanfordCPPLib.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		2B3A9CDE1713B46200787D95 /* 2_16.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = 2_16.cpp; sourceTree = "<group>"; };
+		3663CA361808576D0019154F /* 3_01 */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 3_01; path = ../../../Chapter_3/Exersice_3_1/3_01/3_01; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
 		8D1107320486CEB800E47090 /* 2_16.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = 2_16.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A81255C316B4AC8C00098A07 /* spl.jar */ = {isa = PBXFileReference; lastKnownFileType = archive.jar; path = spl.jar; sourceTree = "<group>"; };
@@ -43,6 +45,7 @@
 			isa = PBXGroup;
 			children = (
 				2B3A9CDE1713B46200787D95 /* 2_16.cpp */,
+				3663CA361808576D0019154F /* 3_01 */,
 				29B97317FDCFA39411CA2CEA /* Resources */,
 				29B97323FDCFA39411CA2CEA /* Frameworks */,
 				19C28FACFE9D520D11CA2CBB /* Products */,
@@ -121,6 +124,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				3663CA371808576D0019154F /* 3_01 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
